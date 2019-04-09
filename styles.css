@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+Body{
+    background-color:#BBCCF8;
+    }
+p{
+    Font-family:'Bungee';color:maroon;
+    }
+marquee{
+    Font-family:'Bungee';color:maroon;
+    }
+h1{
+  Font-family:'Bungee';color:maroon;
+  }
+h3{
+    Font-family:'Bungee';color:maroon;
+    }
+h2{
+    Font-family:'Bungee';color:maroon;
+    }
+ul{
+    Font-family:'Bungee';color:maroon;
+    }
+    a{
+    Font-family:'Bungee';}
